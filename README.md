@@ -1,7 +1,7 @@
 <h2 align="center"><a href="https://www.google.com/search?&q=passt%C3%BCrkey+t%C3%BCrkish+wordlist+xorcan" alt="PassTurkey a Turkish Wordlist"><img src="./ivirzivir/xorcan.passturkey.logo.jpg" width="250"></a></br>
 <b>PassTurkey, a Turkish Wordlist, Türk Parola Listesi</b></h2><h4 align="center">Güvenlik için kullanılması uygundur.</h4>
 
-<p align="center"><a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/github/license/xorcan/passturkey.svg"></a> <a href="https://www.google.com/search?&q=t%C3%BCrk+adlist+xorcan" alt="Türkçe Ad-listler"><img src="https://img.shields.io/badge/t%C3%BCrk%C3%A7e-reklam%20listesi-f44b42.svg"></a>  <a href="https://github.com/xorcan/passturkey/issues" alt="Hatalar"><img src="https://img.shields.io/github/issues/xorcan/passturkey.svg"></a> 
+<p align="center"><a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/github/license/xorcan/passturkey.svg"></a> <a href="https://www.google.com/search?&q=t%C3%BCrk+adlist+xorcan" alt="Türkçe Ad-listler"><img src="https://img.shields.io/badge/t%C3%BCrk%C3%A7e-reklam%20listesi-f44b42.svg"></a>  <a href="https://github.com/xorcan/passturkey/issues" alt="Hatalar"><img src="https://img.shields.io/github/issues/xorcan/passturkey.svg"></a> <a href="https://github.com/xorcan/passturkey" alt="Görüntülenme Sayısı"><img src="https://visitor-badge.laobi.icu/badge?page_id=xorcan.passturkey"></a>
 
 ## Kullanım
 
